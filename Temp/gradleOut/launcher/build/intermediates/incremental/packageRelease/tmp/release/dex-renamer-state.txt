@@ -1,0 +1,4 @@
+#Thu Mar 26 20:20:32 EET 2020
+base.0=C\:\\Users\\sahncagri\\Documents\\Unity Projects\\Hyper Motion\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

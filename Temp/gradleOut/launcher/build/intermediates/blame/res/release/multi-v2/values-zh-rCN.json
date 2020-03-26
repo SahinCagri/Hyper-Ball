@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sahncagri\\Documents\\Unity Projects\\Hyper Motion\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sahncagri\\.gradle\\caches\\transforms-2\\files-2.1\\d5b3b1ec1b29d1bdc0927755752a2b41\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "741",
+                        "endColumns": "100",
+                        "endOffsets": "837"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sahncagri\\.gradle\\caches\\transforms-2\\files-2.1\\289a1a124f8d065df1e4b28d31be3cf5\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,264,337,397,457,521,591",
+                        "endColumns": "60,72,59,59,63,69,61",
+                        "endOffsets": "263,336,396,456,520,590,652"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "263,328,405,469,533,601,675",
+                        "endColumns": "64,76,63,63,67,73,65",
+                        "endOffsets": "323,400,464,528,596,670,736"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sahncagri\\.gradle\\caches\\transforms-2\\files-2.1\\2b6bfbd6df38e202e22dad0959774ae3\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                }
+            ]
+        }
+    ]
+}

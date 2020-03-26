@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sahncagri\\Documents\\Unity Projects\\Hyper Motion\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sahncagri\\.gradle\\caches\\transforms-2\\files-2.1\\289a1a124f8d065df1e4b28d31be3cf5\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,268,383,451,526,612,728",
+                        "endColumns": "68,114,67,74,85,115,77",
+                        "endOffsets": "267,382,450,525,611,727,805"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "316,389,508,580,659,749,869",
+                        "endColumns": "72,118,71,78,89,119,81",
+                        "endOffsets": "384,503,575,654,744,864,946"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sahncagri\\.gradle\\caches\\transforms-2\\files-2.1\\d5b3b1ec1b29d1bdc0927755752a2b41\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "951",
+                        "endColumns": "100",
+                        "endOffsets": "1047"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sahncagri\\.gradle\\caches\\transforms-2\\files-2.1\\2b6bfbd6df38e202e22dad0959774ae3\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "210",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "210",
+                        "endOffsets": "311"
+                    }
+                }
+            ]
+        }
+    ]
+}
